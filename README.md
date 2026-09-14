@@ -1,6 +1,6 @@
 # AI Multi-Agent Financial Research Platform v2.2
 
-![AI Multi-Agent Financial Research Platform v2.2](YOUR_V2_2_IMAGE_FILENAME.png)
+![AI Multi-Agent Financial Research Platform v2.2](525993f3-0a4e-410b-a95a-ca9d6cab8289.png)
 
 ## Overview
 
